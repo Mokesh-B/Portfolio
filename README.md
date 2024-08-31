@@ -1,2 +1,2 @@
-# Portfolio_template.io
+# Portfolio
 Personal portfolio template
